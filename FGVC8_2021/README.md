@@ -9,6 +9,12 @@ That we can find out ...
 
 ## Canny bounding box
 
-Use the bounding_box.py that can get a new image focus on the feature
+Use bounding_box.py to get a new image focused on this feature.
 
 ![image](https://github.com/CTHMIT/Kaggle/assets/107465888/3f461197-458b-4875-902d-fd739f4087fd)
+
+## New image create
+To create more feature images, you can use concat_image.py to create a new image with new features for upsampling.
+
+![image](https://github.com/CTHMIT/Kaggle/assets/107465888/21d88844-ead8-4547-a06c-4179657c21ef)
+
