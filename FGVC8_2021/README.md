@@ -5,4 +5,5 @@ As the duplicate image, we use the Image duplicate.py to find out
 
 That we can find out ...
 
-![image](https://github.com/CTHMIT/Kaggle/assets/107465888/0bab45ef-83d8-4c48-8e21-86e05d99885d)
+![image](https://github.com/CTHMIT/Kaggle/assets/107465888/e2aa366f-190d-4d9f-bc3c-e2e4fe5e48c5)
+
